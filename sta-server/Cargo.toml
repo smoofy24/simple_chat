@@ -1,0 +1,9 @@
+[package]
+name = "sta-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4.21"
+anyhow = "1.0.86"
+thiserror = "1.0.61"
